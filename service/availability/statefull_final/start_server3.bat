@@ -1,0 +1,1 @@
+erl -sname s3 -setcookie abc

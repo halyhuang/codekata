@@ -1,0 +1,1 @@
+erl -sname s1 -setcookie abc
